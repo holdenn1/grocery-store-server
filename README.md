@@ -5,5 +5,4 @@
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
-  <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
  <h2>This is the source code from set up<a href="https://medium.com/@ihor.ivlievv/nestjs-and-postgresql-a-set-up-tutorial-2cd4505671a1">the NestJS Configuration with Neon server-less PostgreSQL: Cloud-Optimized Approach</a></h2>
